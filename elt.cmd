@@ -1,3 +1,4 @@
 @echo off  
-eza --tree --level=2 --icons %*
+eza -a --tree --level=2 --icons %*
+
 
