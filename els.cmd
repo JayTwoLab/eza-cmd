@@ -1,3 +1,4 @@
 @echo off  
-eza --icons --group-directories-first %*
+eza -a --icons --group-directories-first %*
+
 
