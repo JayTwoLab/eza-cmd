@@ -1,4 +1,5 @@
 @echo off  
-eza -a -lgh --icons --git --group-directories-first %*
+eza -alghu --icons --git --group-directories-first %*
+
 
 
